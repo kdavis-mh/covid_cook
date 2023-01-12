@@ -1,13 +1,16 @@
+
 # load libraries
 library(tidyverse)
-options("scipen" = 10)
-
-# setwd("~/anaconda3/envs/notebook/analysis/2022/0410_coviddetct")
-#https://data.cdc.gov/resource/2ew6-ywp6.csv
 #https://github.com/Chicago/RSocrata
-
 #install.packages("RSocrata")
 library(RSocrata)
+options("scipen" = 10)
+
+
+#https://data.cdc.gov/resource/2ew6-ywp6.csv
+
+
+
 
 # little shortcut, if you have a bunch of commands you want to run
 # within a script, put them in a for-loop with a single loop (runs one time)
