@@ -2,6 +2,35 @@ COVID_Cook
 =============
 Using R to examine covid wastewater data for Cook County via the CDC API
 
-Using this as an exercise for understanding the process of working with GitHub.
+And learn to collaborate with github
 
-Making changes again to remember how to do this next time. 10:48
+Fork the repository
+
+
+In fork
+----
+
+
+make changes, commit
+
+create new pull request going from fork to main Use the comparing changes tool bar
+
+edit title, add comments as needed
+
+----
+
+In main
+
+click pull requests to find new open request
+
+review changes and merge
+
+
+---- 
+
+in fork
+
+if changes in main, sync fork
+
+NOTE: be careful to sync before making changes
+
