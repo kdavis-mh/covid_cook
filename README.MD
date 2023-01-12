@@ -17,18 +17,17 @@ create new pull request going from fork to main Use the comparing changes tool b
 
 edit title, add comments as needed
 
-----
 
 In main
+----
 
 click pull requests to find new open request
 
 review changes and merge
 
 
----- 
-
-in fork
+Back in fork
+----
 
 if changes in main, sync fork
 
